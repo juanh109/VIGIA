@@ -1,0 +1,22 @@
+{
+  "usuarios": [
+    {
+      "usuario": "juan.hernandezb@terpel.com",
+      "hash": "scrypt$16384$8$1$5b617e031b7b7fe6c7ec272b439b6e8f$82da30f6af02febcbb6e0d14595cc9987e722203c791825fb967d15e183e60e9b77489d98103e54af91ca9475b00769ea048b4a383cc4cd4a6ad541987c0f2fd",
+      "actualizado": "2026-10-11T00:27:24.647Z",
+      "rol": "admin"
+    },
+    {
+      "usuario": "juan.diaz@terpel.com",
+      "rol": "usuario",
+      "hash": "scrypt$16384$8$1$19f8e444072fa7e2cac5276a43bfe419$0ed7ad1af26b331022c5225d0d9033302344658dfe2be1c1f7ff081bd0dcbcfbb669681c324c5172a5f4424f58e950f766b7f9b9403a64e45b2c82a62d609015",
+      "actualizado": "2026-10-11T00:56:18.955Z"
+    },
+    {
+      "usuario": "York.Gutierres@terpel.com",
+      "rol": "usuario",
+      "hash": "scrypt$16384$8$1$8cbf51c7a6ec0c4e40853947ec6fc2fe$bbc3f64c62eea6e767d2eb11372e706aa07ef7e57dd13d38e52db597b4297e086e7e0a2d639e08eb9a4b578e57c8a13be80ad35de1d14732142096ad72ba324f",
+      "actualizado": "2026-10-11T00:56:51.003Z"
+    }
+  ]
+}
